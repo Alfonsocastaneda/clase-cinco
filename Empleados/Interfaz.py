@@ -1,5 +1,5 @@
 from tkinter import *
-frome empleado import Empleado
+from empleado import Empleado
 from nomina import Nomina
 
 class Ejercicio1:
